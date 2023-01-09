@@ -1,0 +1,54 @@
+html{
+    background-color: black;
+}
+   
+body header{
+     background-color: rgb(17, 17, 17);
+     
+ }
+
+body header h1{ 
+ color: white;
+ text-align: center;
+ text-decoration: underline;
+}
+body header h4{
+ color: white;
+ text-align: center;
+}
+body header nav li{
+ text-align: center;
+ list-style: none;
+ text-decoration: underline;
+ word-spacing: 2px;
+ letter-spacing: 3px;
+ line-height: 30px;
+ 
+}
+body header nav li a{
+ text-decoration: none;
+ color: cadetblue;
+}
+body main{
+    background-image: url(img/background.png);
+}
+body main h2{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.fblogo{
+    width: 200px;
+    align-items: center;
+}
+.instalogo{
+    width: 200px;
+    text-align: center;
+}
+form{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+
+}

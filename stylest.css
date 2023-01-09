@@ -1,0 +1,89 @@
+html{
+    background-color: black;
+}
+   
+body header{
+     background-color: rgb(17, 17, 17);
+     
+ }
+
+body header h1{ 
+ color: white;
+ text-align: center;
+ text-decoration: underline;
+}
+body header h4{
+ color: white;
+ text-align: center;
+}
+body header nav li{
+ text-align: center;
+ list-style: none;
+ text-decoration: underline;
+ word-spacing: 2px;
+ letter-spacing: 3px;
+ line-height: 30px;
+ 
+}
+body header nav li a{
+ text-decoration: none;
+ color: cadetblue;
+}
+body main{
+    background-image: url(img/background.png);
+}
+div{
+    background-color: black;
+}
+.top{
+    color: white;
+    text-align: center;
+}
+
+.ps4{
+    color: white;
+    text-align: left;
+    text-decoration: underline;
+}
+.ps4info{
+    color: white;
+    text-align: justify;
+    text-decoration: solid;
+}
+.im1{
+    width: 300px;
+}
+.im2{
+    width: 300px;
+}
+body main p{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.titulopc{
+    color: white;
+    text-align: left;
+    text-decoration: underline;
+}
+.subpc{
+    color: white;
+    text-align: justify;
+    text-decoration: solid;
+}
+.infopc{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+footer{
+    background-image: url(img/background.png);
+    text-align: center;
+}
+footer a{
+    text-decoration: underline;
+    color: darkred;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+    font-size: 25px;
+}

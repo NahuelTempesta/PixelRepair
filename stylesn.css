@@ -1,0 +1,79 @@
+html{
+    background-color: black;
+}
+   
+body header{
+     background-color: rgb(17, 17, 17);
+     
+ }
+
+body header h1{ 
+ color: white;
+ text-align: center;
+ text-decoration: underline;
+}
+body header h4{
+ color: white;
+ text-align: center;
+}
+body header nav li{
+ text-align: center;
+ list-style: none;
+ text-decoration: underline;
+ word-spacing: 2px;
+ letter-spacing: 3px;
+ line-height: 30px;
+ 
+}
+body header nav li a{
+ text-decoration: none;
+ color: cadetblue;
+}
+body main{
+    background-color: white;
+}
+main{ 
+    text-align: center;
+    color: white;
+    
+}
+main a{
+    text-decoration: none;
+    color: darkred;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+}
+.div1{
+    background-image: url(img/background.png);
+}
+.tituloserv{
+    color: black;
+}
+.div2{
+    color: black;
+    text-align:center;
+    
+}
+.div3{
+    color: black;
+    text-align: center;
+}
+.div4{
+    color: black;
+    text-align: center;
+}
+.div5{
+    text-align: center;
+    color: black;
+}
+footer a{
+    text-decoration: underline;
+    color: darkred;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+footer{
+    text-align: center;
+    background-image: url(img/background.png);
+}
